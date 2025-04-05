@@ -1,0 +1,11 @@
+# Ignore les dossiers du node_modules
+Client/node_modules
+Client/build
+Client/.env
+
+Server/node_modules
+Server/.env
+
+# Fichiers inutiles
+*.log
+.DS_Store
